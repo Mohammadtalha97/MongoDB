@@ -1,0 +1,16 @@
+{
+  "name": "embedding-documents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "embedding.js",
+  "dependencies": {
+    "mongoose": "^5.10.15",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon embedding.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

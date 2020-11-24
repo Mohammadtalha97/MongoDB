@@ -260,4 +260,4 @@ async function selectAllAuthors(courseId) {
 //    SelectAllAuthors(SELECT)
 //----------------------------
 
-selectAllAuthors("5fbcb9acd20a7b33f4a9cd67");
+// selectAllAuthors("5fbcb9acd20a7b33f4a9cd67");
